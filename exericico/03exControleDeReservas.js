@@ -27,5 +27,4 @@ for(let reserva = 1; reserva <=3; reserva++ ){
             console.log("Solicitante não autorizado");
         }
       
-
 }
